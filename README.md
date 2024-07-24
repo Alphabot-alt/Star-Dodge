@@ -5,5 +5,7 @@
 
 # Instruction
 1.Press space to play
+
 2.Dodge stars , after some time the difficulty will increase
+
 3.use up down keys (no W,S,A,D)
