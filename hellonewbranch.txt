@@ -1,1 +1,2 @@
 Hello from new branch!
+This is a second message for checking pull request
